@@ -27,7 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemathiasl&show_icons=true&locale=en" alt="josemathiasl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josemathiasl&" alt="josemathiasl" /></p>
-### Hi there 👋
 
 <!--
 **josemathiasl/josemathiasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
